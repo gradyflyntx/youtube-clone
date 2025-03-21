@@ -1,0 +1,43 @@
+.profile-pic {
+  width: 30px;
+  border-radius: 50px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 5px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.status {
+  border: none;
+  vertical-align: middle;
+  margin-left: 2px;
+  margin-right: 3px;
+  font-family: arial;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  border: none;
+  color: white;
+  border-radius: 30px;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: arial;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.tweeter-bar {
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0,0,0,.3);
+  width: 290px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+.Search-bar {
+  border-radius: 20px;
+  border: none;
+  font-size: 8px;
+  width: 200px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0px 0px 2px rgba(0,0,0,0.3);
+}
